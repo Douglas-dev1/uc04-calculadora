@@ -60,11 +60,6 @@ async function main(){
   }while(operacao!= 0)
     scanner.close();
     console.log("ENCERRADO");
-//0 SAIR
-//1 SOMA
-//2 SUBTRACAO
-//3 DIVISAO
-//4 MULTIPLICACAO
 }
 
 main()
